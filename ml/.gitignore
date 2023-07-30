@@ -1,0 +1,6 @@
+/data/processed
+/data/raw
+/checkpoints/sentiment_analysis/dcnn/
+/models/sentiment_analysis/dcnn
+exports/sentiment_analysis/tokenizers
+/venv

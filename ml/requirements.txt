@@ -2,3 +2,4 @@ pandas
 numpy
 scikit-learn~=1.2.2
 joblib
+beautifulsoup4~=4.12.2
