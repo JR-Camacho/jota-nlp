@@ -3,5 +3,6 @@
 /checkpoints/sentiment_analysis/dcnn/
 /models/sentiment_analysis/dcnn
 /models/sentiment_analysis/rnn
-exports/sentiment_analysis/tokenizers
+/exports/sentiment_analysis/tokenizers
+/exports/translator/tokenizers
 /venv
