@@ -1,6 +1,6 @@
 [submodule "api_jota_nlp"]
 	path = api_jota_nlp
-	url = git@github.com:JR-Camacho/api_jota_nlp.git
+	url = https://github.com/JR-Camacho/api_jota_nlp.git
 [submodule "client_side_jotanlp"]
 	path = client_side_jotanlp
-	url = git@github.com:JR-Camacho/client_side_jotanlp.git
+	url = https://github.com/JR-Camacho/client_side_jotanlp.git
